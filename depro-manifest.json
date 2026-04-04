@@ -13,5 +13,14 @@
       "Atualização 1.1.4",
       "Ajuste info contato + link whatsapp"
     ]
+  },
+  "filemanager": {
+    "version": "1.0.1",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/filemanager-v1.0.1/filemanager.zip",
+    "changelog": [
+      "Atualização 1.0.1",
+      "Correção de erro CSS (WebkitAppRegion)",
+      "Sincronização com o Hub Update System"
+    ]
   }
 }
