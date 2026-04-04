@@ -1,9 +1,9 @@
 {
   "hub": {
-    "version": "1.1.0",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/hub-v1.1.0/Depro.Hub.Setup.1.1.0.exe",
+    "version": "1.1.1",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/hub-v1.1.0/Depro.Hub.Setup.1.1.1.exe",
     "changelog": [
-      "Teste Atualização 1.1.0"
+      "MIGRAÇÃO DE SISTEMA DE ATUALIZAÇÃO PARA STANDALONE .EXE"
     ]
   },
   "kanban": {
