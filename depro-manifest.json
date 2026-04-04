@@ -1,9 +1,10 @@
 {
   "hub": {
-    "version": "1.1.1",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/hub-v1.1.0/Depro.Hub.Setup.1.1.1.exe",
+    "version": "1.1.2",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/hub-v1.1.2/Depro.Hub.Setup.1.1.2.exe",
     "changelog": [
-      "MIGRAÇÃO DE SISTEMA DE ATUALIZAÇÃO PARA STANDALONE .EXE"
+      "Atualização 1.1.2",
+      "Novo sistema de instalação via .exe (standalone)"
     ]
   },
   "kanban": {
@@ -16,7 +17,7 @@
   },
   "filemanager": {
     "version": "1.0.2",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/filemanager-v1.0.2/DePro.Gerenciador.de.Arquivos.Setup.1.0.2.exe",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.2/DePro.Gerenciador.de.Arquivos.Setup.1.0.2.exe",
     "changelog": [
       "Atualização 1.0.2",
       "Novo sistema de instalação via .exe (standalone)",
