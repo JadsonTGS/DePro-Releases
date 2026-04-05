@@ -2,6 +2,7 @@
   "hub": {
     "version": "1.1.4",
     "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/hub-v1.1.4/Depro.Hub.Setup.1.1.4.exe",
+    "sha256": null,
     "changelog": [
       "Atualização 1.1.4",
       "Novo ícone oficial DP Hub (Monograma)",
@@ -12,6 +13,7 @@
   "kanban": {
     "version": "1.1.6",
     "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Kanban-v1.1.6/DePro.Kanban.Setup.1.1.6.exe",
+    "sha256": "ff91db4fe22e50f63ed48b84067d1ed7f3a9289ea4d65bf02e276e4ecf984e1b",
     "changelog": [
       "Atualização 1.1.6",
       "Novo sistema de instalação via .exe (standalone)"
@@ -20,6 +22,7 @@
   "filemanager": {
     "version": "1.0.2",
     "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.2/DePro.Gerenciador.de.Arquivos.Setup.1.0.2.exe",
+    "sha256": null,
     "changelog": [
       "Atualização 1.0.2",
       "Novo sistema de instalação via .exe (standalone)",
