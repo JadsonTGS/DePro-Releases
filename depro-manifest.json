@@ -5,28 +5,28 @@
     "sha256": null,
     "changelog": [
       "Atualização 1.1.4",
-      "Novo ícone oficial DP Hub (Monograma)",
-      "Melhoria na transição de módulos",
-      "Sincronização de identidade visual DePro"
+      "Correção: Abertura imediata de módulos embutidos (Bundled Modules)",
+      "Melhoria: Limpeza automática de caches de build",
+      "Novo ícone oficial DP Hub (Monograma)"
     ]
   },
   "kanban": {
-    "version": "1.1.6",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Kanban-v1.1.6/DePro.Kanban.Setup.1.1.6.exe",
-    "sha256": "ff91db4fe22e50f63ed48b84067d1ed7f3a9289ea4d65bf02e276e4ecf984e1b",
+    "version": "1.1.7",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Kanban-v1.1.7/DePro.Kanban.Setup.1.1.7.exe",
+    "sha256": "dd638806cc6d4baec4ddcd1723e4359576e879fc441f779450da655fee6a86b9",
     "changelog": [
-      "Atualização 1.1.6",
-      "Novo sistema de instalação via .exe (standalone)"
+      "Atualização 1.1.7",
+      "Teste de atualização em produção"
     ]
   },
   "filemanager": {
-    "version": "1.0.2",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.2/DePro.Gerenciador.de.Arquivos.Setup.1.0.2.exe",
-    "sha256": null,
+    "version": "1.0.3",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.3/DePro.File.Manager.Setup.1.0.3.exe",
+    "sha256": "755c931b33036b2a93cd42f652d7beef6e98f46b6e73a4b1482367d4e9fe6f71",
     "changelog": [
-      "Atualização 1.0.2",
-      "Novo sistema de instalação via .exe (standalone)",
-      "Sincronização com o Hub Launcher"
+      "Atualização 1.0.3",
+      "Correção: Referências incorretas ao Kanban removidas",
+      "Correção: Títulos e descrições agora corretas para File Manager"
     ]
   }
 }
