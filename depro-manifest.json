@@ -11,12 +11,16 @@
     ]
   },
   "kanban": {
-    "version": "1.1.7",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Kanban-v1.1.7/DePro.Kanban.Setup.1.1.7.exe",
+    "version": "1.1.8",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Kanban-v1.1.8/DePro.Kanban.Setup.1.1.8.exe",
     "sha256": "dd638806cc6d4baec4ddcd1723e4359576e879fc441f779450da655fee6a86b9",
     "changelog": [
-      "Atualização 1.1.7",
-      "Teste de atualização em produção"
+      "Atualização 1.1.8",
+      "Novo: Sistema de categorias expandido para 12 opções",
+      "Novo: Cores dinâmicas nos cards por categoria",
+      "Novo: Botão de rotação no visualizador de imagens",
+      "Melhoria: Centralização de constantes de categegorias",
+      "Melhoria: Dashboard de Analytics atualizado"
     ]
   },
   "filemanager": {
