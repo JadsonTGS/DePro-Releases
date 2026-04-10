@@ -24,13 +24,14 @@
     ]
   },
   "filemanager": {
-    "version": "1.0.3",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.3/DePro.File.Manager.Setup.1.0.3.exe",
-    "sha256": "755c931b33036b2a93cd42f652d7beef6e98f46b6e73a4b1482367d4e9fe6f71",
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.4/DePro.File.Manager.Setup.1.0.4.exe",
+    "sha256": "bfd79f3235d6cb661cf59a07dff69410b339e1a97a9fe3c37590a8ed55b5b8e4",
     "changelog": [
-      "Atualização 1.0.3",
-      "Correção: Referências incorretas ao Kanban removidas",
-      "Correção: Títulos e descrições agora corretas para File Manager"
+      "Atualização 1.0.4",
+      "Novo: Sincronização de ícones e temas com DP Hub",
+      "Correção: Estabilidade na visualização de arquivos",
+      "Melhoria: Interface refinada para melhor performance"
     ]
   }
 }
