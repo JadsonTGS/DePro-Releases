@@ -23,14 +23,17 @@
     ]
   },
   "filemanager": {
-    "version": "1.0.4",
-    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.4/DePro.File.Manager.Setup.1.0.4.exe",
-    "sha256": "1699a3cbe7846fbdb8821e36b1d2b60c7786a4c1893ef505a9e4161b950a3c84",
+    "version": "1.0.5",
+    "downloadUrl": "https://github.com/JadsonTGS/DePro-Releases/releases/download/Filemanager-v1.0.5/DePro.File.Manager.Setup.1.0.5.exe",
+    "sha256": "5eb83cc60454f3c295922ae94d9e03057a8e0e4f34659b7c72db5d19124f4d35",
     "changelog": [
-      "Atualização 1.0.4",
-      "Novo: Sincronização de ícones e temas com DP Hub",
-      "Correção: Estabilidade na visualização de arquivos",
-      "Melhoria: Interface refinada para melhor performance"
+      "Atualização 1.0.5",
+      "Novo: Design de Janela unificado com botões nativos no header",
+      "Novo: Tema Claro 'Professional Zinc' (redução de brilho e maior contraste)",
+      "Novo: Cards de visualização de Saldo INSS e Saldo FGTS",
+      "Correção: Inversão de cores das guias oficiais (INSS Verde / FGTS Azul)",
+      "Melhoria: UX de recolhimento de colunas com animações suaves",
+      "Estabilidade: Correção de avisos de logs do motor de PDF"
     ]
   }
 }
